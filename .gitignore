@@ -1,0 +1,25 @@
+# Archivos objeto
+obj/
+*.o
+*.d
+
+# Binarios
+bin/
+
+# Archivos de compilación
+*.a
+*.so
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
